@@ -1,0 +1,14 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "guesss-my-number",
+  "main": "script.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "author": "monika",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
