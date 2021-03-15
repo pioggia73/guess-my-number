@@ -4,7 +4,7 @@
   "description": "guesss-my-number",
   "main": "script.js",
   "scripts": {
-    "start": "index.html"
+    "start": "index.html -watch"
   },
   "author": "monika",
   "license": "ISC",
